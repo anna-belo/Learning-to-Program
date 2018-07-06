@@ -1,3 +1,5 @@
+//this is huy's test comment
+
 var currentDate = new Date();
 var kbValues = {
 	projectName: 'kittenbook',
@@ -18,5 +20,7 @@ var kbValues = {
 		currentDate.getMinutes() + ':' +
 		currentDate.getSeconds()
 };
+
+
 	
 
