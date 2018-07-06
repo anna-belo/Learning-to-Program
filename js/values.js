@@ -1,4 +1,3 @@
-//this is huy's test comment
 
 var currentDate = new Date();
 var kbValues = {
